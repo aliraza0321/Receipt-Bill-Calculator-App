@@ -4,7 +4,7 @@ This is a simple and interactive receipt/bill calculator web app built using HTM
 
 I created this project to practice real-world JavaScript concepts like DOM manipulation, form handling, dynamic rendering, and calculations.
 
-## ✨ Features
+##  Features
 
 - Add new items with name and price
 - Update total bill automatically on every action
@@ -15,13 +15,13 @@ I created this project to practice real-world JavaScript concepts like DOM manip
 - Print bill functionality
 - Form validation to prevent empty inputs
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript (Vanilla JS)
 
-## 📚 What I Learned
+## What I Learned
 
 - Working with forms and user input
 - DOM manipulation and event handling
@@ -30,13 +30,13 @@ I created this project to practice real-world JavaScript concepts like DOM manip
 - Clean and structured JavaScript code
 - Basic UI animations and styling
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Save bill data using localStorage
 - Add edit item functionality
 - Make the UI more responsive for mobile devices
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository
 2. Open the `index.html` file in your browser
